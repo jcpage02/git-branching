@@ -1,1 +1,3 @@
-function sayHi(name => alert(name))
+function sayHi(name){
+    alert(name)
+}
